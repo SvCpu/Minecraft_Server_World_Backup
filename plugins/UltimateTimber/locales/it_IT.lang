@@ -1,0 +1,19 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6UltimateTimber&8] '
+  nopermission: '&cNon hai i permessi per farlo!'
+# Command Messages
+command:
+  reload:
+    description: Ricarica il file di configurazione.
+    reloaded: '&7I file di configurazione e di lingue sono stati ricaricati.'
+  toggle:
+    description: Attiva o disattiva la modalità di taglio
+    enabled: '&7Modalità di taglio: &aAttivata'
+    disabled: '&7Modalità di taglio: &cDisattivata'
+# Event Messages
+event:
+  'on':
+    cooldown: '&eSei in attesa e non puoi abbatere altri alberi adesso.'

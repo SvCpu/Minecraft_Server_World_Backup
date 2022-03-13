@@ -1,0 +1,19 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6UltimateTimber&8] '
+  nopermission: '&cDu har inte tillåtelse för det!'
+# Command Messages
+command:
+  reload:
+    description: Laddar om configen.
+    reloaded: '&7Konfigurations- och språkfiler har laddats om.'
+  toggle:
+    description: Växlar ditt skärläge.
+    enabled: '&7Skärläge: &aAktiverat'
+    disabled: '&7Skärläge: &cInaktiverat'
+# Event Messages
+event:
+  'on':
+    cooldown: '&eDu är på en cooldown och kan inte tippa träd just nu.'

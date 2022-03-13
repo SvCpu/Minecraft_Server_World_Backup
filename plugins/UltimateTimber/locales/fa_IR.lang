@@ -1,0 +1,19 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6UltimateTimber&8] '
+  nopermission: '&cShoma Ejaze Dastresi Be Anjame In Kar Ra Nadarid!'
+# Command Messages
+command:
+  reload:
+    description: Reload Kardane Config.
+    reloaded: '&7&7Config Reload Shod Va File Ha Update Shodand.'
+  toggle:
+    description: Khamoosh Ya Roshan Kardane Halate Chopping
+    enabled: '&7Halate Chopping: &aFa''al Shod.'
+    disabled: '&7Halate Chopping: &cGheyre Fa''al Shod.'
+# Event Messages
+event:
+  'on':
+    cooldown: '&eShoam Dar Cooldown Hastid Va Nemitavanid Derakhti Bekanid!'

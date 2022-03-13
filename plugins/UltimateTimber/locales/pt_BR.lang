@@ -1,0 +1,19 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6UltimateTimber&8] '
+  nopermission: '&cVocê não tem permissão para fazer isso!'
+# Command Messages
+command:
+  reload:
+    description: Recarrega a configuração.
+    reloaded: '&7Arquivos de configuração e idiomas foram recarregados.'
+  toggle:
+    description: Ativa/Desativa o modo Lenhador
+    enabled: '&7Modo Lenhador: &aAtivado'
+    disabled: '&7Modo Lenhador: &cDesativado'
+# Event Messages
+event:
+  'on':
+    cooldown: '&eVocê está sob cooldown e não pode cortar árvores por agora.'

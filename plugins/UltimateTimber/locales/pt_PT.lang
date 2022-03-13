@@ -1,0 +1,13 @@
+# General Messages
+
+prefix: '&8[&6UltimateTimber&8] '
+no-permission: '&cVoce nao tem permissao para isto!'
+command-reload-description: Recarrega a configuracao
+command-reload-reloaded: '&7Os arquivos e linguagens foram recarregados!'
+command-toggle-description: Ativa/Desativa o Modo de Corte
+command-toggle-enabled: '&7Modo de Corte: &aAtivado'
+command-toggle-disabled: '&7Modo de Corte: &cDesativado'
+on-cooldown: '&eVoce tem que esperar, e nao pode tombar arvores no momento!'
+
+# Command Messages
+# Misc

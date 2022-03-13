@@ -1,0 +1,13 @@
+# General Messages
+
+prefix: '&8[&6UltimateTimber&8] '
+no-permission: '&cDazu hast du keine Rechte!'
+command-reload-description: Lade die Konfiguartion neu.
+command-reload-reloaded: '&7Konfiguration und lokale Datein wurden neu geladen.'
+command-toggle-description: Schaltet das Baumfällen für dich ein bzw aus.
+command-toggle-enabled: '&7Fällmodus: &aAktiviert'
+command-toggle-disabled: '&7Fällmodus: &cDeaktiviert'
+on-cooldown: '&Du hast aktuell eine Abklingzeit und kannst gerade keine weiteren Bäume fällen.'
+
+# Command Messages
+# Misc

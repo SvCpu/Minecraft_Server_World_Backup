@@ -1,0 +1,19 @@
+# General Messages (Rasa2l 3ama)
+
+general:
+  nametag:
+    prefix: '&8[&6UltimateTimber&8] '
+  nopermission: '&canta la tmtlek sala7ya letf3al zalek!'
+# Command Messages (Rasa2l el awamer)
+command:
+  reload:
+    description: 23adat t7mel el config.
+    reloaded: '&7tama 23adat t7mel milaffat eltakwen wel el a3dadat elm7leya'
+  toggle:
+    description: tabdel 7alet elqat3 al5as bek
+    enabled: '&7wad3 el qat3: &2Mafto7'
+    disabled: '&7wad3 el qat3: &cMa2fol'
+# Event Messages (Rasa2l el a7das)
+event:
+  'on':
+    cooldown: '&eant fi 7alat ra7a wala yumkenk esqat elashgar fe alwaqt el7ale.'
