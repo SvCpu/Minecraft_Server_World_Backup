@@ -1,2 +1,3 @@
 # Minecraft_Server_World_Backup
-This Repositories is for Private use only
+This Repository is for Backup Only
+server.properties is an Outdated Version
